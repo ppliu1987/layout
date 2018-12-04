@@ -1,0 +1,16 @@
+*{
+	margin:0;
+	padding:0;
+}
+ul,ol,dl,li{
+	list-style:none;
+}
+sup{vertical-align:text-top}
+sub{vertical-align:text-bottom}
+.fl{
+	float:left;
+}
+.fr{
+	float:right;
+}
+.clearFix{display:block;content:'';clear:both;}
